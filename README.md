@@ -7,3 +7,4 @@ make menuconfig
 # 设置 passwall
 exit
 ```
+## 编辑 .config
